@@ -1,8 +1,8 @@
-[TOC]
+
 
 # 本期内容
 
-PyHubWeekly每周定期更新，精选GitHub上优质的Python项目/小工具，本期为大家推荐GitHub上5个优质的Python项目，<!--more-->它们分别是：
+PyHubWeekly每周定期更新，精选GitHub上优质的Python项目/小工具，本期为大家推荐GitHub上5个优质的Python项目，它们分别是：
 
 [1. explainshell](https://github.com/idank/explainshell)
 
