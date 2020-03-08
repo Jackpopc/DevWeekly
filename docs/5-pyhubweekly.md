@@ -1,6 +1,10 @@
 ## **本期内容**
 
-PyHubWeekly每周定期更新，精选GitHub上优质的Python项目/小工具，本期为大家推荐GitHub上4个优质的Python项目，它们分别是：
+PyHubWeekly每周定期更新，精选GitHub上优质的Python项目/小工具.
+
+如果喜欢，麻烦给个**Star**支持一下吧。此外，**欢迎大家通过提交issue来投稿和推荐自己的项目**~
+
+本期为大家推荐GitHub上4个优质的Python项目，它们分别是：
 
 - **[tushare](https://github.com/waditu/tushare)**
 - **[python-cheatsheet](https://github.com/gto76/python-cheatsheet)**
