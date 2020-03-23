@@ -96,7 +96,7 @@ plt.show()
 
 **输出结果**
 
-![1584690110882](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\1584690110882.png)
+![img](https://pic4.zhimg.com/80/v2-49da0155e90f1b6fdd333df349fedfdb_1440w.png)
 
 ## automl
 
@@ -106,7 +106,7 @@ plt.show()
 
 由于项目刚开源，所以列表中只包含了谷歌最新目标检测模型EfficientDet，该模型在模型大小、计算量方面都对比于当前最优秀的模型有了很大的提升。
 
-![1584690578544](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\1584690578544.png)
+![img](https://pic1.zhimg.com/80/v2-5c9a1c12265e03376f9d8b880139b1b4_1440w.png)
 
 ## salt
 
