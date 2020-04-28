@@ -18,6 +18,8 @@ PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨，
 
 ## 四月
 
+⭐️[第15期](./docs/15-pyhubweekly.md)
+
 ⭐️[第14期](./docs/14-pyhubweekly.md)
 
 ⭐️[第13期](./docs/13-pyhubweekly.md)
