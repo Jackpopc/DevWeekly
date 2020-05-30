@@ -2,7 +2,7 @@
 
 PyHubWeekly每周定期更新，精选GitHub上优质的Python项目/小工具。
 
-我把PyHubWeekly托管到了Github，感兴趣的可以**搜索Github项目PyHubWeekly**[1]，如果喜欢，麻烦给个Star支持一下吧。此外，**欢迎大家通过提交issue来投稿和推荐自己的项目**~
+我把PyHubWeekly托管到了Github，感兴趣的可以**搜索Github项目PyHubWeekly**，如果喜欢，麻烦给个Star支持一下吧。此外，**欢迎大家通过提交issue来投稿和推荐自己的项目**~
 
 本期为大家推荐GitHub上5个优质的Python项目，它们分别是：
 
