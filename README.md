@@ -14,7 +14,15 @@ PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨，
 
 如果喜欢，麻烦给个**Star**支持:thumbsup:一下吧。此外，**欢迎大家通过提交issue来投稿和推荐自己的项目**~
 
+专注Python、AI、大数据，欢迎关注公众号**七步编程**！
+
+<img src="https://gitee.com/sharetech_lee/blogimg/raw/master/imgs/image-20200821231810602.png" width="30%" height="30%">
+
 # 2020年
+
+### 八月
+
+⭐️[第23期](./docs/23-pyhubweekly.md)
 
 ## 六月
 
