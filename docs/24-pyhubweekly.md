@@ -52,7 +52,7 @@ enaml具有如下特性：
 
 **示例**
 
-```
+```python
 from __future__ import print_function
 
 import datetime
