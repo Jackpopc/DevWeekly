@@ -20,6 +20,10 @@ PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨，
 
 # 2020年
 
+### 九月
+
+⭐️[第25期](./docs/25-pyhubweekly.md)
+
 ### 八月
 
 ⭐️[第24期](./docs/24-pyhubweekly.md)
