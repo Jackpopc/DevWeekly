@@ -42,7 +42,7 @@ from txtai.embeddings import Embeddings
 
 下面，就演示如何用Embeddings搜索相似概念：
 
-```
+```Python
 import numpy as np
 
 sections = ["US tops 5 million confirmed virus cases",

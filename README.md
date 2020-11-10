@@ -20,23 +20,29 @@ PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨，
 
 # 2020年
 
+### 十月
+
+⭐️[第28期：数据分析终于迎来神器](./docs/28-pyhubweekly.md)
+
+⭐️[第27期：一款更为强大的Python包管理工具](./docs/27-pyhubweekly.md)
+
 ### 九月
 
-⭐️[第26期](./docs/26-pyhubweekly.md)
+⭐️[第26期：Python调度与自动化](./docs/26-pyhubweekly.md)
 
-⭐️[第25期](./docs/25-pyhubweekly.md)
+⭐️[第25期：功能强大的Python GUI框架](./docs/25-pyhubweekly.md)
 
 ### 八月
 
-⭐️[第24期](./docs/24-pyhubweekly.md)
+⭐️[第24期：数据解析和验证](./docs/24-pyhubweekly.md)
 
-⭐️[第23期](./docs/23-pyhubweekly.md)
+⭐️[第23期：一款强大的Python打包、分发工具](./docs/23-pyhubweekly.md)
 
 ## 六月
 
-⭐️[第22期](./docs/22-pyhubweekly.md)
+⭐️[第22期：快速创建漂亮文档](./docs/22-pyhubweekly.md)
 
-⭐️[第21期](./docs/21-pyhubweekly.md)
+⭐️[第21期：一款美化终端富文本内容的命令行工具](./docs/21-pyhubweekly.md)
 
 ## 五月
 
