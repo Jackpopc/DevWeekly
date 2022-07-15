@@ -1,95 +1,47 @@
-<h1 align="left">PyHubWeekly</h1>
+<h1 align="left">DevWeekly</h1>
 <p align="center">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/PyHubWeekly?style=social">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/PyHubWeekly?style=social">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/PyHubWeekly?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/DevWeekly?style=social">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/DevWeekly?style=social">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/DevWeekly?style=social">
 </p>
 
-PyHubWeekly是一个精选Github上优质Python小工具的项目，宗旨，
+DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**工具资源**、**技术文章**等方面。
 
-- 每周更新一次
-- 精选GitHub上优质Python项目
+每周五定期发布，同步更新到<a href="https://www.zhihu.com/people/sharetechlee/activities">
+知乎：Jackpop</a> 和<a href="https://mp.weixin.qq.com/s/hTZAGgkiMS0XPZ9OHQxFJg" rel="nofollow">公众号：平凡而诗意</a> 。
 
-本项目不追求数量而追求质量，不会为了拼凑数量而一味的美化一个项目，不会强行把一个项目描绘的天花乱坠。
+欢迎大家投稿，**[提交issue](https://github.com/Jackpopc/DevWeekly/issues)**，推荐或者自荐开源项目/资源/工具/文章~
 
-如果喜欢，麻烦给个**Star**支持:thumbsup:一下吧。此外，**欢迎大家通过提交issue来投稿和推荐自己的项目**~
+订阅方式：
 
-专注Python、AI、大数据，欢迎关注公众号**七步编程**！
+1. **Star**并收藏项目[DevWeekly](https://github.com/Jackpopc/DevWeekly)
+2. 关注<a href="https://www.zhihu.com/people/sharetechlee/activities">
+   知乎：Jackpop</a>
+3. 关注并星标<a href="https://mp.weixin.qq.com/s/hTZAGgkiMS0XPZ9OHQxFJg" rel="nofollow">公众号：平凡而诗意</a>  
 
-<img src="https://gitee.com/sharetech_lee/blogimg/raw/master/imgs/image-20200821231810602.png" width="30%" height="30%">
+进阶技术，优质资源，实用工具，欢迎关注公众号**平凡而诗意**！
 
-# 2020年
+<img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260" align=center></img>
 
-### 十月
+# 2022年
 
-⭐️[第28期：数据分析终于迎来神器](./docs/28-pyhubweekly.md)
+### 7月
 
-⭐️[第27期：一款更为强大的Python包管理工具](./docs/27-pyhubweekly.md)
+⭐️[第1期：什么是时间复杂度？](./weekly/2022-07-15-weekly.md)
 
-### 九月
 
-⭐️[第26期：Python调度与自动化](./docs/26-pyhubweekly.md)
 
-⭐️[第25期：功能强大的Python GUI框架](./docs/25-pyhubweekly.md)
+---
 
-### 八月
+> 大家好，在2020年到我曾经整理过28期内容，由于种种原因而停更了，这次DevWeekly在原来的基础上进行了全新的改版，更加用心、更多精品。如果对历史内容感兴趣，我也也整理放在这里了，感兴趣的同学可以看一下！
 
-⭐️[第24期：数据解析和验证](./docs/24-pyhubweekly.md)
+---
 
-⭐️[第23期：一款强大的Python打包、分发工具](./docs/23-pyhubweekly.md)
 
-## 六月
+| ⭐️[第28期](./docs/28-pyhubweekly.md)     | ⭐️[第27期](./docs/27-pyhubweekly.md)     | ⭐️[第26期](./docs/26-pyhubweekly.md)     | ⭐️[第25期](./docs/25-pyhubweekly.md)     | ⭐️[第24期](./docs/24-pyhubweekly.md)     | ⭐️[第23期](./docs/23-pyhubweekly.md)     |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ⭐️[**第22期**](./docs/22-pyhubweekly.md) | ⭐️[**第21期**](./docs/21-pyhubweekly.md) | ⭐️[**第20期**](./docs/20-pyhubweekly.md) | ⭐️[**第19期**](./docs/19-pyhubweekly.md) | ⭐️[**第18期**](./docs/18-pyhubweekly.md) | ⭐️[**第17期**](./docs/17-pyhubweekly.md) |
+| ⭐️[**第16期**](./docs/16-pyhubweekly.md) | ⭐️[**第15期**](./docs/15-pyhubweekly.md) | ⭐️[**第14期**](./docs/14-pyhubweekly.md) | ⭐️[**第13期**](./docs/13-pyhubweekly.md) | ⭐️[**第12期**](./docs/12-pyhubweekly.md) | ⭐️[**第11期**](./docs/11-pyhubweekly.md) |
+| ⭐️[**第10期**](./docs/10-pyhubweekly.md) | ⭐️[**第9期**](./docs/9-pyhubweekly.md)   | ⭐️[**第8期**](./docs/8-pyhubweekly.md)   | ⭐️[**第7期**](./docs/7-pyhubweekly.md)   | ⭐️[**第6期**](./docs/6-pyhubweekly.md)   | ⭐️[**第5期**](./docs/5-pyhubweekly.md)   |
+| ⭐️[**第4期**](./docs/4-pyhubweekly.md)   | ⭐️[**第3期**](./docs/3-pyhubweekly.md)   | ⭐️[**第2期**](./docs/2-pyhubweekly.md)   | ⭐️[**第1期**](./docs/1-pyhubweekly.md)   |                                         |                                         |
 
-⭐️[第22期：快速创建漂亮文档](./docs/22-pyhubweekly.md)
-
-⭐️[第21期：一款美化终端富文本内容的命令行工具](./docs/21-pyhubweekly.md)
-
-## 五月
-
-⭐️[第20期](./docs/20-pyhubweekly.md)
-
-⭐️[第19期](./docs/19-pyhubweekly.md)
-
-⭐️[第18期](./docs/18-pyhubweekly.md)
-
-⭐️[第17期](./docs/17-pyhubweekly.md)
-
-⭐️[第16期](./docs/16-pyhubweekly.md)
-
-## 四月
-
-⭐️[第15期](./docs/15-pyhubweekly.md)
-
-⭐️[第14期](./docs/14-pyhubweekly.md)
-
-⭐️[第13期](./docs/13-pyhubweekly.md)
-
-⭐️[第12期](./docs/12-pyhubweekly.md)
-
-## 三月
-
-⭐️[第11期](./docs/11-pyhubweekly.md)
-
-⭐️[第10期](./docs/10-pyhubweekly.md)
-
-⭐️[第9期](./docs/9-pyhubweekly.md)
-
-⭐️[第8期](./docs/8-pyhubweekly.md)
-
-## 二月
-
-⭐️[第7期](./docs/7-pyhubweekly.md)
-
-⭐️[第6期](./docs/6-pyhubweekly.md)
-
-⭐️[第5期](./docs/5-pyhubweekly.md)
-
-##  一月
-
-⭐️[第4期](./docs/4-pyhubweekly.md)
-
-⭐️[第3期](./docs/3-pyhubweekly.md)
-
-⭐️[第2期](./docs/2-pyhubweekly.md)
-
-⭐️[第1期](./docs/1-pyhubweekly.md)
