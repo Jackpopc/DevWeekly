@@ -12,7 +12,7 @@ DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**�
 
 欢迎大家投稿，**[提交issue](https://github.com/Jackpopc/DevWeekly/issues)**，推荐或者自荐开源项目/资源/工具/文章~
 
-订阅方式：
+**订阅方式**：
 
 1. **Star**并收藏项目[DevWeekly](https://github.com/Jackpopc/DevWeekly)
 2. 关注<a href="https://www.zhihu.com/people/sharetechlee/activities">
