@@ -1,9 +1,11 @@
 <h1 align="left">DevWeekly</h1>
 <p align="center">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/DevWeekly?style=social">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/DevWeekly?style=social">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/DevWeekly?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/DevWeekly">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/issues/Jackpopc/DevWeekly">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jackpopc/DevWeekly">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jackpopc/DevWeekly">
 </p>
+
 
 DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**工具资源**、**技术文章**等方面。
 
@@ -21,7 +23,9 @@ DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**�
 
 进阶技术，优质资源，实用工具，欢迎关注公众号**平凡而诗意**！
 
-<img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260" align=center></img>
+<p align="center">
+    <img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260"></img>
+</p>
 
 # 2022年
 
