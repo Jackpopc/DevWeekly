@@ -30,6 +30,8 @@ DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**�
 
 ### 9月
 
+⭐️[第10期：像专家一样处理Python日志](./weekly/2022-09-16-weekly.md)
+
 ⭐️[第9期：没有IDE，该怎么Debug？](./weekly/2022-09-09-weekly.md)
 
 ⭐️[第8期：为什么这么多品牌迫切想要改变Logo？](./weekly/2022-09-02-weekly.md)
