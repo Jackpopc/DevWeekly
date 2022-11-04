@@ -26,8 +26,11 @@ DevWeekly收集整理每周优质开发者内容，包括**开源项目**、**�
 <p align="center">
     <img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260"></img>
 </p>
-
 # 2022年
+
+### 11月
+
+⭐️[第17期：一个专业程序员的10年](./weekly/2022-11-04-weekly.md)
 
 ### 10月
 
